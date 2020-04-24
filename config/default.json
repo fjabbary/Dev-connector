@@ -1,3 +1,4 @@
 {
-    "mongoURL": "mongodb+srv://farzin123:farzin123@devconnector-e39ws.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURL": "mongodb+srv://farzin123:farzin123@devconnector-e39ws.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken": "mysecrettoken"
 }
